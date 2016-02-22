@@ -6,7 +6,12 @@
     "company": "FIREWAX",
     "email": "kirklandwilliamson@firewax.com",
     "phone": "+1 (912) 430-3844",
-    "address": "570 Beverly Road, Brazos, Hawaii, 851"
+    "address": {
+      "street": "570 Beverly Road",
+      "city": "Brazos",
+      "state": "Hawaii",
+      "zip": "851"
+      }
   },
   {
     "_id": "56c658dbd9478066d69b826b",
@@ -15,7 +20,12 @@
     "company": "RECRITUBE",
     "email": "taraowen@recritube.com",
     "phone": "+1 (918) 583-3089",
-    "address": "179 Emmons Avenue, Topaz, South Dakota, 9450"
+    "address": {
+      "street": "179 Emmons Avenue",
+      "city": "Topaz",
+      "state": "South Dakota",
+      "zip": "9450"
+      }
   },
   {
     "_id": "56c658db5fd44bda484c8c1c",
@@ -24,7 +34,12 @@
     "company": "MUSANPOLY",
     "email": "davenportbarry@musanpoly.com",
     "phone": "+1 (975) 429-3594",
-    "address": "908 Driggs Avenue, Remington, Oregon, 7225"
+    "address": {
+      "street": "908 Driggs Avenue",
+      "city": "Remington",
+      "state": "Oregon",
+      "zip": "7225"
+      }
   },
   {
     "_id": "56c658dba39940ea9efa1066",
@@ -33,7 +48,12 @@
     "company": "ULTRIMAX",
     "email": "claredudley@ultrimax.com",
     "phone": "+1 (883) 527-2003",
-    "address": "965 Harbor Court, Sattley, Colorado, 8366"
+    "address": {
+      "street": "965 Harbor Court",
+      "city": "Sattley",
+      "state": "Colorado",
+      "zip": "8366"
+      }
   },
   {
     "_id": "56c658dbcb2ab4589e572c67",
@@ -42,6 +62,11 @@
     "company": "EARBANG",
     "email": "schmidthardin@earbang.com",
     "phone": "+1 (846) 547-3658",
-    "address": "146 Strong Place, Loma, Texas, 3537"
+    "address": {
+      "street": "146 Strong Place",
+      "city": "Loma",
+      "state": "Texas",
+      "zip": "3537"
+      }
   }
 ]
